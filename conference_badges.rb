@@ -20,4 +20,5 @@ def assign_rooms(rooms)
   speaker_rooms
 end
 
-def printer
+def printer (guest)
+  guest=[]
