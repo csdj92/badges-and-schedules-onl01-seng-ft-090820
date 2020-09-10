@@ -20,9 +20,9 @@ def assign_rooms(rooms)
   speaker_rooms
 end
 
-def printer (guest)
-  guest.each do |guest|
-    guest=(speaker)
-    puts speaker
+def printer (attendees)
+  attendees.each do |attendees|
+    attendees=(attendees)
+    puts attendees
   end
 end
