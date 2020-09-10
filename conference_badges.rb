@@ -1,7 +1,7 @@
 # Write your code here.
-names = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
-def badge_maker(names)
-  puts "Hello, my name is #{names}."
+attendees = {["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]}
+def badge_maker(attendees)
+  puts "Hello, my name is #{attendees}."
   
   
 end
