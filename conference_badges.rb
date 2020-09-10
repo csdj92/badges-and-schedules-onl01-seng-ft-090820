@@ -21,4 +21,5 @@ def assign_rooms(rooms)
 end
 
 def printer (guest)
-  
+  guest.each do |guest|
+    
