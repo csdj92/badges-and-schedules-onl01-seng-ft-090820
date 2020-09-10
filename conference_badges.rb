@@ -14,7 +14,7 @@ end
 
 def assign_rooms(rooms)
   speaker_rooms=[]
-  rooms.each.with_index(1) |room|
+  rooms.each.with_index(1) do |name,room|
     room=assign_rooms(room)
     speaker_rooms.push(room)
   end
