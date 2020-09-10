@@ -25,3 +25,4 @@ def printer (guest)
     guest=(speaker)
     puts speaker
   end
+end
