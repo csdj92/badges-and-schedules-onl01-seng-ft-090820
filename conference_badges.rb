@@ -1,7 +1,9 @@
 # Write your code here.
-
+badge_maker=("Arel")
 def badge_maker(attendees)
   puts "Hello, my name is #{attendees}."
   
   
-endattendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+end
+
+attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
