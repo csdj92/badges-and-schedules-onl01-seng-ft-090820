@@ -23,4 +23,5 @@ end
 def printer (guest)
   guest.each do |guest|
     guest=(speaker)
-    puts 
+    puts speaker
+  end
